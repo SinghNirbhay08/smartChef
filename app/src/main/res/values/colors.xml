@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Brand Colors -->
+
+
+
+    <!-- Backgrounds and Text -->
+
+    <color name="backgroundDark">#FAFAFA</color>
+
+    <color name="textSecondary">#757575</color>
+
+    <!-- Extra UI Colors -->
+    <color name="cardBackground">#FFF3E0</color>
+    <color name="ingredientUsed">#E8F5E9</color>
+    <color name="ingredientMissed">#FFEBEE</color>
+
+    <!-- Status colors -->
+    <color name="successGreen">#4CAF50</color>
+    <color name="warningRed">#FF5252</color>
+
+    <!-- Transparent overlay (if needed) -->
+    <color name="overlayBlack50">#80000000</color>
+
+
+
+
+
+
+        <color name="colorPrimary">#FF9800</color>
+        <color name="colorPrimaryDark">#F57C00</color>
+        <color name="colorAccent">#FFC107</color>
+        <color name="backgroundLight">#FFFFFF</color>
+        <color name="textPrimary">#212121</color>
+
+
+
+</resources>

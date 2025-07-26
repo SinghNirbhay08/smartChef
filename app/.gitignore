@@ -1,0 +1,23 @@
+# Gradle
+.gradle/
+build/
+**/build/
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+
+# Keystores and secrets
+*.jks
+*.keystore
+*.key
+*.pem
+
+# Misc
+.DS_Store
+*.log
+
+# Sensitive or unwanted files
+.env
+gradle.properties

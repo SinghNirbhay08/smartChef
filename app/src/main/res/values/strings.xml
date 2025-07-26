@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Recipe Finder</string>
+    <string name="enter_ingredients">Enter ingredients</string>
+    <string name="find_recipes">Find Recipes</string>
+</resources>
