@@ -17,7 +17,7 @@ interface ApiService {
     @POST("v1/generateText")
     suspend fun generateRecipe(
         @Body prompt: String,
-        @Header("Authorization") authHeader: String = "Bearer AIzaSyDzEouuM4O0PMTWgzIPBsIyesd1F4ZV8wo"
+        @Header("Authorization") authHeader: String = "....."
     ): GeminiResponse
 
     // Pexels API call (GET)
@@ -25,6 +25,6 @@ interface ApiService {
     suspend fun searchImages(
         @Query("query") query: String,
         @Query("per_page") perPage: Int = 1,
-        @Header("Authorization") authHeader: String = "Bearer 99ZdETxYFV5ZqE1siXtTcNlsVXUxXaW16PyMxHYmPpwEJnAZCkbNogZ9"
+        @Header("Authorization") authHeader: String = "......"
     ): PexelsResponse
 }
